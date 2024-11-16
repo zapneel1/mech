@@ -1,5 +1,4 @@
 # Wiper Mechanism (Simulation) 
-<img src="https://github.com/zapneel1/mech/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
 
 Simulator for a **4-bar wiper mechanism** with motion analysis and UI for user to change parameters.<br>
 
@@ -30,7 +29,3 @@ See the [userManual.html] in the User Manual folder, or use the JsDoc toolkit to
 - Toogle butttons to reveal or hide items.
 - "i" buttons are added for extra information.
 - Press "Reset" button to get to the default setttings.
-
-## Screenshots: 
-<img src="https://github.com/zapneel/mech/blob/main/Images/sess-pic.png" alt="SS1" width="1000">
-<img src="https://github.com/zapneel1/mech/blob/main/Images/labelled.png" align="center" width="400">
