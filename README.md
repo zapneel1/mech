@@ -1,13 +1,12 @@
 # Wiper Mechanism (Simulation) 
-<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
+<img src="https://github.com/zapneel1/mech/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
 
 Simulator for a **4-bar wiper mechanism** with motion analysis and UI for user to change parameters.<br>
-[https://mechsessional-assignment.netlify.app/](https://mechsessional-assignment.netlify.app/)
 
 ### Team Members: 
-1. 20MF10002 - Aditya Chari S
-2. 20ME30012 - Arnab Kr Borah
-3. 20ME30069 - Vishal Kumar
+1. 22ME10087 - Swapneel Layek
+2. 22ME10067 - Prodyumno Paik
+3. 22ME10013 - Asjit Sinha
 
 ### Features: 
 1. Smooth real-time simulation using JavaScript.
@@ -33,5 +32,5 @@ See the [userManual.html] in the User Manual folder, or use the JsDoc toolkit to
 - Press "Reset" button to get to the default setttings.
 
 ## Screenshots: 
-<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/sess-pic.png" alt="SS1" width="1000">
-<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/labelled.png" align="center" width="400">
+<img src="https://github.com/zapneel/mech/blob/main/Images/sess-pic.png" alt="SS1" width="1000">
+<img src="https://github.com/zapneel1/mech/blob/main/Images/labelled.png" align="center" width="400">
